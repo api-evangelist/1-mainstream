@@ -1,8 +1,24 @@
 aid: 1-mainstream
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/1-mainstream.png
 name: 1 Mainstream
-description: '1 Mainstream is a company surfaced as a portfolio company of dcm-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: '1 Mainstream was a cloud-based OTT (over-the-top) video streaming platform for content owners
+  and distributors, enabling operators to launch live and on-demand video services across connected devices
+  including iOS, Android, Roku, Amazon Fire TV, Chromecast, game consoles, smart TVs, and Apple TV, with
+  DRM (Widevine, PlayReady), multi-CDN control, subscriber management, entitlements, and a CMS-based analytics
+  engine. Backed by Sky and DCM Ventures, the company was acquired by Cisco in October 2015 and folded into
+  Cisco''s Infinite Video suite of cloud-powered video entertainment solutions. The standalone 1mainstream.com
+  domain no longer resolves; this profile is retained as a historical portfolio-lead record.'
 url: https://raw.githubusercontent.com/api-evangelist/1-mainstream/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +26,21 @@ x-backed-by:
 - dcm-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: cisco
+x-acquired-date: '2015-10-29'
+x-website-status: unresolved
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
 - Enterprise
+- Media
+- OTT
+- Streaming
+- Video
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,8 @@ maintainers:
 common:
 - type: Website
   url: http://www.1mainstream.com/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
