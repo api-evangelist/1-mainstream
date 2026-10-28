@@ -64,11 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
 1 Mainstream was a cloud-based OTT (over-the-top) video streaming platform for content owners and distributors, enabling operators to launch live and on-demand video services across connected devices including iOS, Android, Roku, Amazon Fire TV, Chromecast, game consoles, smart TVs, and Apple TV, with DRM (Widevine, PlayReady), multi-CDN control, subscriber management, entitlements, and a CMS-based analytics engine. Backed by Sky and DCM Ventures, the company was acquired by Cisco in October 2015 and folded into Cisco's Infinite Video suite of cloud-powered video entertainment solutions. The standalone 1mainstream.com domain no longer resolves; this profile is retained as a historical portfolio-lead record.
 
 **Areas:** Company · Enterprise · Media · OTT · Streaming · Video · Acquired
 
-## 1 Mainstream on APIs.io
+## 1 Mainstream on APIs.io (historical record)
 
 Everything profiled for 1 Mainstream is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/1-mainstream/](https://apis.io/providers/1-mainstream/)** — or go straight to one of the APIs or properties below.
 
@@ -80,44 +82,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 2.6** — minimal · rubric 0.24.0 · scored 2026-10-17
-
-| Facet | Score |
-|---|---|
-| Discoverability | 48.2 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 0.0** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | — |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/1-mainstream/](https://apis.io/providers/1-mainstream/).
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
 ## How this profile is made
 
